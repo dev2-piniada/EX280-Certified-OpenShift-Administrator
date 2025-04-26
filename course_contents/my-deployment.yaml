@@ -9,7 +9,7 @@ metadata:
     app: my-deployment
   name: my-deployment
 spec:
-  replicas: 3
+  replicas: 2
   selector:
     matchLabels:
       app: my-deployment
